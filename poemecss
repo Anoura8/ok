@@ -5,13 +5,17 @@
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Document</title>
     <style>
-    body {background-color:color;
-    color:blue;
+
+    body {
+        background-color:orange;
+        color:green;
   }
-  h1 {font-size:150%;
-  }
+
+  h1 {
+    font-size:150%;
+    }
   </style>
-    
+
 </head>
 <body>
     <h1>Mes poèmes préférés</h1>
